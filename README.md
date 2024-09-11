@@ -28,14 +28,12 @@
 - [Free ChatGPT](#free-chatgpt)
   - [目录](#目录)
   - [💬 ChatGPT 镜像列表](#-chatgpt-镜像列表)
-  - [🗨️ ChatGPT 替代方案](#️-chatgpt-替代方案)
+  - [🗨️ AI工具导航](#️-ai工具导航)
   - [📚 更多...](#-更多)
     - [💿 构建你自己的 ChatGPT 镜像](#-构建你自己的-chatgpt-镜像)
     - [💡 提示词（Prompt）](#-提示词prompt)
     - [📝 自建内容库](#-自建内容库)
     - [💻 开发者工具](#-开发者工具)
-    - [🌟 Star History](#-star-history)
-    - [💞 Contributors](#-contributors)
 <!-- TOC -->
 
 ## 💬 ChatGPT 镜像列表
@@ -69,7 +67,7 @@
     <tbody>
         <tr>
             <td>1</td>
-            <td> <a href="https://chat5.aiyunos.top" target="_blank">https://chat5.aiyunos.top</a>
+            <td> <a href="https://www.jiling.cc/chat" target="_blank">https://www.jiling.cc/chat</a>
                 <br> </td>
             <td>
                         🏆
@@ -3334,930 +3332,7 @@
             </td>
             <td>2024-06-09</td>
         </tr>
-        <tr>
-            <td>2</td>
-            <td><del> <a href="https://chat.gptoai.cc/list" target="_blank">https://chat.gptoai.cc/list</a>
-                </del>
-            </td>
-            <td>2024-05-16</td>
-        </tr>
-        <tr>
-            <td>3</td>
-            <td><del> <a href="https://chat.swt-ai.com/" target="_blank">https://chat.swt-ai.com/</a>
-                </del>
-            </td>
-            <td>2024-05-16</td>
-        </tr>
-        <tr>
-            <td>4</td>
-            <td><del> <a href="https://ck-ai.co" target="_blank">https://ck-ai.co</a>
-                </del>
-            </td>
-            <td>2024-02-20</td>
-        </tr>
-        <tr>
-            <td>5</td>
-            <td><del> <a href="https://share.wendabao.net" target="_blank">https://share.wendabao.net</a>
-                </del>
-            </td>
-            <td>2024-02-04</td>
-        </tr>
-        <tr>
-            <td>6</td>
-            <td><del> <a href="https://talkai.info/" target="_blank">https://talkai.info/</a>
-                </del>
-            </td>
-            <td>2024-02-04</td>
-        </tr>
-        <tr>
-            <td>7</td>
-            <td><del> <a href="https://chat.atmoses.uk/" target="_blank">https://chat.atmoses.uk/</a>
-                </del>
-            </td>
-            <td>2024-01-12</td>
-        </tr>
-        <tr>
-            <td>8</td>
-            <td><del> <a href="http://newpc.i-coding.top" target="_blank">http://newpc.i-coding.top</a>
-                </del>
-            </td>
-            <td>2024-01-10</td>
-        </tr>
-        <tr>
-            <td>9</td>
-            <td><del> <a href="https://chat.zonas.wang" target="_blank">https://chat.zonas.wang</a>
-                </del>
-            </td>
-            <td>2024-01-08</td>
-        </tr>
-        <tr>
-            <td>10</td>
-            <td><del> <a href="https://chat.meizi.me" target="_blank">https://chat.meizi.me</a>
-                </del>
-            </td>
-            <td>2023-12-30</td>
-        </tr>
-        <tr>
-            <td>11</td>
-            <td><del> <a href="https://ss.sbai.free.hr/" target="_blank">https://ss.sbai.free.hr/</a>
-                </del>
-            </td>
-            <td>2023-12-30</td>
-        </tr>
-        <tr>
-            <td>12</td>
-            <td><del> <a href="https://ai.ai365.ink" target="_blank">https://ai.ai365.ink</a>
-                </del>
-            </td>
-            <td>2023-12-26</td>
-        </tr>
-        <tr>
-            <td>13</td>
-            <td><del> <a href="https://www.aitool.ink/" target="_blank">https://www.aitool.ink/</a>
-                </del>
-            </td>
-            <td>2023-12-24</td>
-        </tr>
-        <tr>
-            <td>14</td>
-            <td><del> <a href="https://chat.aiptl.com" target="_blank">https://chat.aiptl.com</a>
-                </del>
-            </td>
-            <td>2023-12-17</td>
-        </tr>
-        <tr>
-            <td>15</td>
-            <td><del> <a href="https://wu.ci/" target="_blank">https://wu.ci/</a>
-                </del>
-            </td>
-            <td>2023-12-16</td>
-        </tr>
-        <tr>
-            <td>16</td>
-            <td><del> <a href="https://ai.maijigc.com/nav/" target="_blank">https://ai.maijigc.com/nav/</a>
-                </del>
-            </td>
-            <td>2023-12-10</td>
-        </tr>
-        <tr>
-            <td>17</td>
-            <td><del> <a href="https://chat.wobcw.com/" target="_blank">https://chat.wobcw.com/</a>
-                </del>
-            </td>
-            <td>2023-12-08</td>
-        </tr>
-        <tr>
-            <td>18</td>
-            <td><del> <a href="http://a.x-code.fun/" target="_blank">http://a.x-code.fun/</a>
-                </del>
-            </td>
-            <td>2023-11-15</td>
-        </tr>
-        <tr>
-            <td>19</td>
-            <td><del> <a href="http://chat3.aiyunos.top" target="_blank">http://chat3.aiyunos.top</a>
-                </del>
-            </td>
-            <td>2023-10-10</td>
-        </tr>
-        <tr>
-            <td>20</td>
-            <td><del> <a href="https://ai.skybyte.me" target="_blank">https://ai.skybyte.me</a>
-                </del>
-            </td>
-            <td>2023-10-09</td>
-        </tr>
-        <tr>
-            <td>21</td>
-            <td><del> <a href="https://chat.aigc101.net/" target="_blank">https://chat.aigc101.net/</a>
-                </del>
-            </td>
-            <td>2023-10-01</td>
-        </tr>
-        <tr>
-            <td>22</td>
-            <td><del> <a href="https://py.c1ns.cn" target="_blank">https://py.c1ns.cn</a>
-                </del>
-            </td>
-            <td>2023-09-24</td>
-        </tr>
-        <tr>
-            <td>23</td>
-            <td><del> <a href="https://free.icoding.ink/" target="_blank">https://free.icoding.ink/</a>
-                </del>
-            </td>
-            <td>2023-09-14</td>
-        </tr>
-        <tr>
-            <td>24</td>
-            <td><del> <a href="https://coffeecat.info/" target="_blank">https://coffeecat.info/</a>
-                </del>
-            </td>
-            <td>2023-08-31</td>
-        </tr>
-        <tr>
-            <td>25</td>
-            <td><del> <a href="https://chat.gptx.im/" target="_blank">https://chat.gptx.im/</a>
-                </del>
-            </td>
-            <td>2023-08-30</td>
-        </tr>
-        <tr>
-            <td>26</td>
-            <td><del> <a href="https://aiin.cc/" target="_blank">https://aiin.cc/</a>
-                </del>
-            </td>
-            <td>2023-08-29</td>
-        </tr>
-        <tr>
-            <td>27</td>
-            <td><del> <a href="https://chat.zhile.io/" target="_blank">https://chat.zhile.io/</a>
-                </del>
-            </td>
-            <td>2023-08-21</td>
-        </tr>
-        <tr>
-            <td>28</td>
-            <td><del> <a href="https://chat-shared2.zhile.io/" target="_blank">https://chat-shared2.zhile.io/</a>
-                </del>
-            </td>
-            <td>2023-08-21</td>
-        </tr>
-        <tr>
-            <td>29</td>
-            <td><del> <a href="https://chat.geekgpt.org/" target="_blank">https://chat.geekgpt.org/</a>
-                </del>
-            </td>
-            <td>2023-08-16</td>
-        </tr>
-        <tr>
-            <td>30</td>
-            <td><del> <a href="https://macio.cc" target="_blank">https://macio.cc</a>
-                </del>
-            </td>
-            <td>2023-08-15</td>
-        </tr>
-        <tr>
-            <td>31</td>
-            <td><del> <a href="https://chat.waixingyun.cn/" target="_blank">https://chat.waixingyun.cn/</a>
-                </del>
-            </td>
-            <td>2023-08-11</td>
-        </tr>
-        <tr>
-            <td>32</td>
-            <td><del> <a href="https://chat.dfehub.com" target="_blank">https://chat.dfehub.com</a>
-                </del>
-            </td>
-            <td>2023-08-07</td>
-        </tr>
-        <tr>
-            <td>33</td>
-            <td><del> <a href="https://www.aibvs.net/chat" target="_blank">https://www.aibvs.net/chat</a>
-                </del>
-            </td>
-            <td>2023-08-04</td>
-        </tr>
-        <tr>
-            <td>34</td>
-            <td><del> <a href="https://gptleg.zeabur.app/" target="_blank">https://gptleg.zeabur.app/</a>
-                </del>
-            </td>
-            <td>2023-08-01</td>
-        </tr>
-        <tr>
-            <td>35</td>
-            <td><del> <a href="https://chat.wudi11.shop/" target="_blank">https://chat.wudi11.shop/</a>
-                </del>
-            </td>
-            <td>2023-07-31</td>
-        </tr>
-        <tr>
-            <td>36</td>
-            <td><del> <a href="https://gpt4.ezchat.top/" target="_blank">https://gpt4.ezchat.top/</a>
-                </del>
-            </td>
-            <td>2023-07-31</td>
-        </tr>
-        <tr>
-            <td>37</td>
-            <td><del> <a href="https://free.freet.top" target="_blank">https://free.freet.top</a>
-                </del>
-            </td>
-            <td>2023-07-29</td>
-        </tr>
-        <tr>
-            <td>38</td>
-            <td><del> <a href="https://doai.c1ns.cn" target="_blank">https://doai.c1ns.cn</a>
-                </del>
-            </td>
-            <td>2023-07-27</td>
-        </tr>
-        <tr>
-            <td>39</td>
-            <td><del> <a href="https://xiaor.eu.org/" target="_blank">https://xiaor.eu.org/</a>
-                </del>
-            </td>
-            <td>2023-07-20</td>
-        </tr>
-        <tr>
-            <td>40</td>
-            <td><del> <a href="https://xiaoc.eu.org/" target="_blank">https://xiaoc.eu.org/</a>
-                </del>
-            </td>
-            <td>2023-07-20</td>
-        </tr>
-        <tr>
-            <td>41</td>
-            <td><del> <a href="https://macqv.com" target="_blank">https://macqv.com</a>
-                </del>
-            </td>
-            <td>2023-07-18</td>
-        </tr>
-        <tr>
-            <td>42</td>
-            <td><del> <a href="https://chatgpt-free.pro" target="_blank">https://chatgpt-free.pro</a>
-                </del>
-            </td>
-            <td>2023-06-27</td>
-        </tr>
-        <tr>
-            <td>43</td>
-            <td><del> <a href="https://www.aibvs.com/chat" target="_blank">https://www.aibvs.com/chat</a>
-                </del>
-            </td>
-            <td>2023-06-26</td>
-        </tr>
-        <tr>
-            <td>44</td>
-            <td><del> <a href="https://macll.cn/" target="_blank">https://macll.cn/</a>
-                </del>
-            </td>
-            <td>2023-06-26</td>
-        </tr>
-        <tr>
-            <td>45</td>
-            <td><del> <a href="https://askgpt.cn/" target="_blank">https://askgpt.cn/</a>
-                </del>
-            </td>
-            <td>2023-06-19</td>
-        </tr>
-        <tr>
-            <td>46</td>
-            <td><del> <a href="https://f1.nbai.live/" target="_blank">https://f1.nbai.live/</a>
-                </del>
-            </td>
-            <td>2023-06-13</td>
-        </tr>
-        <tr>
-            <td>47</td>
-            <td><del> <a href="https://chatgptdddd.com/" target="_blank">https://chatgptdddd.com/</a>
-                </del>
-            </td>
-            <td>2023-06-06</td>
-        </tr>
-        <tr>
-            <td>48</td>
-            <td><del> <a href="http://gpt.hz-it-dev.com/" target="_blank">http://gpt.hz-it-dev.com/</a>
-                </del>
-            </td>
-            <td>2023-05-30</td>
-        </tr>
-        <tr>
-            <td>49</td>
-            <td><del> <a href="https://www.freechatsgpt.com/" target="_blank">https://www.freechatsgpt.com/</a>
-                </del>
-            </td>
-            <td>2023-05-28</td>
-        </tr>
-        <tr>
-            <td>50</td>
-            <td><del> <a href="https://qa.6bbs.cn/" target="_blank">https://qa.6bbs.cn/</a>
-                </del>
-            </td>
-            <td>2023-05-28</td>
-        </tr>
-        <tr>
-            <td>51</td>
-            <td><del> <a href="https://ai.dw3.io/" target="_blank">https://ai.dw3.io/</a>
-                </del>
-            </td>
-            <td>2023-05-28</td>
-        </tr>
-        <tr>
-            <td>52</td>
-            <td><del> <a href="https://jiehan.tech/" target="_blank">https://jiehan.tech/</a>
-                </del>
-            </td>
-            <td>2023-05-28</td>
-        </tr>
-        <tr>
-            <td>53</td>
-            <td><del> <a href="https://f1.52chye.cn/" target="_blank">https://f1.52chye.cn/</a>
-                </del>
-            </td>
-            <td>2023-05-28</td>
-        </tr>
-        <tr>
-            <td>54</td>
-            <td><del> <a href="https://a.aizh.app/" target="_blank">https://a.aizh.app/</a>
-                </del>
-            </td>
-            <td>2023-05-28</td>
-        </tr>
-        <tr>
-            <td>55</td>
-            <td><del> <a href="https://gpt.xcbl.cc/" target="_blank">https://gpt.xcbl.cc/</a>
-                </del>
-            </td>
-            <td>2023-05-28</td>
-        </tr>
-        <tr>
-            <td>56</td>
-            <td><del> <a href="https://chatgptproxy.info/" target="_blank">https://chatgptproxy.info/</a>
-                </del>
-            </td>
-            <td>2023-05-28</td>
-        </tr>
-        <tr>
-            <td>57</td>
-            <td><del> <a href="https://chat.aicn.me/" target="_blank">https://chat.aicn.me/</a>
-                </del>
-            </td>
-            <td>2023-05-28</td>
-        </tr>
-        <tr>
-            <td>58</td>
-            <td><del> <a href="https://ai.cheapy.top/" target="_blank">https://ai.cheapy.top/</a>
-                </del>
-            </td>
-            <td>2023-05-28</td>
-        </tr>
-        <tr>
-            <td>59</td>
-            <td><del> <a href="https://chatgpt.hoposoft.com/" target="_blank">https://chatgpt.hoposoft.com/</a>
-                </del>
-            </td>
-            <td>2023-05-28</td>
-        </tr>
-        <tr>
-            <td>60</td>
-            <td><del> <a href="https://askgptai.com/" target="_blank">https://askgptai.com/</a>
-                </del>
-            </td>
-            <td>2023-05-28</td>
-        </tr>
-        <tr>
-            <td>61</td>
-            <td><del> <a href="https://chat.paoying.net/" target="_blank">https://chat.paoying.net/</a>
-                </del>
-            </td>
-            <td>2023-05-28</td>
-        </tr>
-        <tr>
-            <td>62</td>
-            <td><del> <a href="https://chats.wxredcover.cn/" target="_blank">https://chats.wxredcover.cn/</a>
-                </del>
-            </td>
-            <td>2023-05-28</td>
-        </tr>
-        <tr>
-            <td>63</td>
-            <td><del> <a href="https://chat.zecoba.cn/" target="_blank">https://chat.zecoba.cn/</a>
-                </del>
-            </td>
-            <td>2023-05-28</td>
-        </tr>
-        <tr>
-            <td>64</td>
-            <td><del> <a href="https://account.eaten.fun" target="_blank">https://account.eaten.fun</a>
-                </del>
-            </td>
-            <td>2023-05-28</td>
-        </tr>
-        <tr>
-            <td>65</td>
-            <td><del> <a href="https://chat.livepo.top/" target="_blank">https://chat.livepo.top/</a>
-                </del>
-            </td>
-            <td>2023-05-28</td>
-        </tr>
-        <tr>
-            <td>66</td>
-            <td><del> <a href="https://askbot.club/chatgpt" target="_blank">https://askbot.club/chatgpt</a>
-                </del>
-            </td>
-            <td>2023-05-28</td>
-        </tr>
-        <tr>
-            <td>67</td>
-            <td><del> <a href="https://talk.xiu.ee/" target="_blank">https://talk.xiu.ee/</a>
-                </del>
-            </td>
-            <td>2023-05-28</td>
-        </tr>
-        <tr>
-            <td>68</td>
-            <td><del> <a href="https://1chat.c3r.ink/" target="_blank">https://1chat.c3r.ink/</a>
-                </del>
-            </td>
-            <td>2023-05-28</td>
-        </tr>
-        <tr>
-            <td>69</td>
-            <td><del> <a href="https://ai.icodebug.xyz/" target="_blank">https://ai.icodebug.xyz/</a>
-                </del>
-            </td>
-            <td>2023-05-28</td>
-        </tr>
-        <tr>
-            <td>70</td>
-            <td><del> <a href="https://aitxt.io/" target="_blank">https://aitxt.io/</a>
-                </del>
-            </td>
-            <td>2023-05-28</td>
-        </tr>
-        <tr>
-            <td>71</td>
-            <td><del> <a href="https://chat.v50.ltd" target="_blank">https://chat.v50.ltd</a>
-                </del>
-            </td>
-            <td>2023-05-28</td>
-        </tr>
-        <tr>
-            <td>72</td>
-            <td><del> <a href="https://1.nb8.ltd/" target="_blank">https://1.nb8.ltd/</a>
-                </del>
-            </td>
-            <td>2023-05-28</td>
-        </tr>
-        <tr>
-            <td>73</td>
-            <td><del> <a href="https://srgfdfsf.xiaowenzi.xyz/" target="_blank">https://srgfdfsf.xiaowenzi.xyz/</a>
-                </del>
-            </td>
-            <td>2023-05-28</td>
-        </tr>
-        <tr>
-            <td>74</td>
-            <td><del> <a href="https://chataibase.com/" target="_blank">https://chataibase.com/</a>
-                </del>
-            </td>
-            <td>2023-05-28</td>
-        </tr>
-        <tr>
-            <td>75</td>
-            <td><del> <a href="https://aiia.chat/" target="_blank">https://aiia.chat/</a>
-                </del>
-            </td>
-            <td>2023-05-26</td>
-        </tr>
-        <tr>
-            <td>76</td>
-            <td><del> <a href="https://1919abc.com" target="_blank">https://1919abc.com</a>
-                </del>
-            </td>
-            <td>2023-05-26</td>
-        </tr>
-        <tr>
-            <td>77</td>
-            <td><del> <a href="https://chat.bk8787.com/" target="_blank">https://chat.bk8787.com/</a>
-                </del>
-            </td>
-            <td>2023-05-26</td>
-        </tr>
-        <tr>
-            <td>78</td>
-            <td><del> <a href="https://chatgpt.dreamtrend.net/" target="_blank">https://chatgpt.dreamtrend.net/</a>
-                </del>
-            </td>
-            <td>2023-05-26</td>
-        </tr>
-        <tr>
-            <td>79</td>
-            <td><del> <a href="http://1.15.134.164:999/" target="_blank">http://1.15.134.164:999/</a>
-                </del>
-            </td>
-            <td>2023-05-26</td>
-        </tr>
-        <tr>
-            <td>80</td>
-            <td><del> <a href="https://chat.aidutu.cn/" target="_blank">https://chat.aidutu.cn/</a>
-                </del>
-            </td>
-            <td>2023-05-26</td>
-        </tr>
-        <tr>
-            <td>81</td>
-            <td><del> <a href="http://207.148.94.37:7860/" target="_blank">http://207.148.94.37:7860/</a>
-                </del>
-            </td>
-            <td>2023-05-26</td>
-        </tr>
-        <tr>
-            <td>82</td>
-            <td><del> <a href="https://ai-pig-fly.space/" target="_blank">https://ai-pig-fly.space/</a>
-                </del>
-            </td>
-            <td>2023-05-26</td>
-        </tr>
-        <tr>
-            <td>83</td>
-            <td><del> <a href="https://gpt.ai8.icu/" target="_blank">https://gpt.ai8.icu/</a>
-                </del>
-            </td>
-            <td>2023-05-26</td>
-        </tr>
-        <tr>
-            <td>84</td>
-            <td><del> <a href="https://x1.xjai.cc/" target="_blank">https://x1.xjai.cc/</a>
-                </del>
-            </td>
-            <td>2023-05-26</td>
-        </tr>
-        <tr>
-            <td>85</td>
-            <td><del> <a href="http://chat.cutim.one/" target="_blank">http://chat.cutim.one/</a>
-                </del>
-            </td>
-            <td>2023-05-26</td>
-        </tr>
-        <tr>
-            <td>86</td>
-            <td><del> <a href="http://chat.cutim.top/" target="_blank">http://chat.cutim.top/</a>
-                </del>
-            </td>
-            <td>2023-05-26</td>
-        </tr>
-        <tr>
-            <td>87</td>
-            <td><del> <a href="https://chat.xiami.one/" target="_blank">https://chat.xiami.one/</a>
-                </del>
-            </td>
-            <td>2023-05-26</td>
-        </tr>
-        <tr>
-            <td>88</td>
-            <td><del> <a href="https://chat.gptplus.one/" target="_blank">https://chat.gptplus.one/</a>
-                </del>
-            </td>
-            <td>2023-05-26</td>
-        </tr>
-        <tr>
-            <td>89</td>
-            <td><del> <a href="http://www.msai.fun/" target="_blank">http://www.msai.fun/</a>
-                </del>
-            </td>
-            <td>2023-05-26</td>
-        </tr>
-        <tr>
-            <td>90</td>
-            <td><del> <a href="https://chatmindai.com/#/chat" target="_blank">https://chatmindai.com/#/chat</a>
-                </del>
-            </td>
-            <td>2023-05-26</td>
-        </tr>
-        <tr>
-            <td>91</td>
-            <td><del> <a href="https://aigcfun.com/" target="_blank">https://aigcfun.com/</a>
-                </del>
-            </td>
-            <td>2023-05-26</td>
-        </tr>
-        <tr>
-            <td>92</td>
-            <td><del> <a href="https://www.chat2ai.cn/" target="_blank">https://www.chat2ai.cn/</a>
-                </del>
-            </td>
-            <td>2023-05-26</td>
-        </tr>
-        <tr>
-            <td>93</td>
-            <td><del> <a href="https://ai.yiios.com/" target="_blank">https://ai.yiios.com/</a>
-                </del>
-            </td>
-            <td>2023-05-26</td>
-        </tr>
-        <tr>
-            <td>94</td>
-            <td><del> <a href="https://ai117.com/" target="_blank">https://ai117.com/</a>
-                </del>
-            </td>
-            <td>2023-05-26</td>
-        </tr>
-        <tr>
-            <td>95</td>
-            <td><del> <a href="https://chat.forchange.cn/" target="_blank">https://chat.forchange.cn/</a>
-                </del>
-            </td>
-            <td>2023-05-26</td>
-        </tr>
-        <tr>
-            <td>96</td>
-            <td><del> <a href="https://w.betai55.uk/" target="_blank">https://w.betai55.uk/</a>
-                </del>
-            </td>
-            <td>2023-05-25</td>
-        </tr>
-        <tr>
-            <td>97</td>
-            <td><del> <a href="https://1chat.cc/" target="_blank">https://1chat.cc/</a>
-                </del>
-            </td>
-            <td>2023-05-24</td>
-        </tr>
-        <tr>
-            <td>98</td>
-            <td><del> <a href="https://gpt.opengpt88.com/" target="_blank">https://gpt.opengpt88.com/</a>
-                </del>
-            </td>
-            <td>2023-05-07</td>
-        </tr>
-        <tr>
-            <td>99</td>
-            <td><del> <a href="https://seven-star.org/" target="_blank">https://seven-star.org/</a>
-                </del>
-            </td>
-            <td>2023-05-06</td>
-        </tr>
-        <tr>
-            <td>100</td>
-            <td><del> <a href="https://tubogpt.vercel.app/" target="_blank">https://tubogpt.vercel.app/</a>
-                </del>
-            </td>
-            <td>2023-05-06</td>
-        </tr>
-        <tr>
-            <td>101</td>
-            <td><del> <a href="http://www.tdchatd.us" target="_blank">http://www.tdchatd.us</a>
-                </del>
-            </td>
-            <td>2023-05-05</td>
-        </tr>
-        <tr>
-            <td>102</td>
-            <td><del> <a href="https://gpt.gpt0.icu/" target="_blank">https://gpt.gpt0.icu/</a>
-                </del>
-            </td>
-            <td>2023-04-28</td>
-        </tr>
-        <tr>
-            <td>103</td>
-            <td><del> <a href="https://chat.hehanwang.com/" target="_blank">https://chat.hehanwang.com/</a>
-                </del>
-            </td>
-            <td>2023-04-25</td>
-        </tr>
-        <tr>
-            <td>104</td>
-            <td><del> <a href="https://chat.8kg.co/" target="_blank">https://chat.8kg.co/</a>
-                </del>
-            </td>
-            <td>2023-04-21</td>
-        </tr>
-        <tr>
-            <td>105</td>
-            <td><del> <a href="https://chat2.zhuleixx.top/" target="_blank">https://chat2.zhuleixx.top/</a>
-                </del>
-            </td>
-            <td>2023-04-21</td>
-        </tr>
-        <tr>
-            <td>106</td>
-            <td><del> <a href="https://chat.ohtoai.com/" target="_blank">https://chat.ohtoai.com/</a>
-                </del>
-            </td>
-            <td>2023-04-20</td>
-        </tr>
-        <tr>
-            <td>107</td>
-            <td><del> <a href="https://ai.zyun.vip/" target="_blank">https://ai.zyun.vip/</a>
-                </del>
-            </td>
-            <td>2023-04-20</td>
-        </tr>
-        <tr>
-            <td>108</td>
-            <td><del> <a href="http://www.tdchat.vip/" target="_blank">http://www.tdchat.vip/</a>
-                </del>
-            </td>
-            <td>2023-04-20</td>
-        </tr>
-        <tr>
-            <td>109</td>
-            <td><del> <a href="https://ai.bo-e.com/" target="_blank">https://ai.bo-e.com/</a>
-                </del>
-            </td>
-            <td>2023-04-18</td>
-        </tr>
-        <tr>
-            <td>110</td>
-            <td><del> <a href="https://chat.zhuleixx.top/" target="_blank">https://chat.zhuleixx.top/</a>
-                </del>
-            </td>
-            <td>2023-04-16</td>
-        </tr>
-        <tr>
-            <td>111</td>
-            <td><del> <a href="https://www.tdchat.com/" target="_blank">https://www.tdchat.com/</a>
-                </del>
-            </td>
-            <td>2023-04-13</td>
-        </tr>
-        <tr>
-            <td>112</td>
-            <td><del> <a href="https://gpt6.fun/" target="_blank">https://gpt6.fun/</a>
-                </del>
-            </td>
-            <td>2023-04-11</td>
-        </tr>
-        <tr>
-            <td>113</td>
-            <td><del> <a href="https://chatgpt3.fun/" target="_blank">https://chatgpt3.fun/</a>
-                </del>
-            </td>
-            <td>2023-04-11</td>
-        </tr>
-        <tr>
-            <td>114</td>
-            <td><del> <a href="https://heimoshuiyu.github.io/chatgpt-api-web/" target="_blank">https://heimoshuiyu.github.io/chatgpt-api-web/</a>
-                </del>
-            </td>
-            <td>2023-04-10</td>
-        </tr>
-        <tr>
-            <td>115</td>
-            <td><del> <a href="http://gitopenchina.gitee.io/freechatgpt" target="_blank">http://gitopenchina.gitee.io/freechatgpt</a>
-                </del>
-            </td>
-            <td>2023-04-10</td>
-        </tr>
-        <tr>
-            <td>116</td>
-            <td><del> <a href="https://freegpt.one/" target="_blank">https://freegpt.one/</a>
-                </del>
-            </td>
-            <td>2023-04-04</td>
-        </tr>
-        <tr>
-            <td>117</td>
-            <td><del> <a href="http://gitopenchina.gitee.io/gpt" target="_blank">http://gitopenchina.gitee.io/gpt</a>
-                </del>
-            </td>
-            <td>2023-04-04</td>
-        </tr>
-        <tr>
-            <td>118</td>
-            <td><del> <a href="http://gitopenchina.gitee.io/chatgpt" target="_blank">http://gitopenchina.gitee.io/chatgpt</a>
-                </del>
-            </td>
-            <td>2023-04-04</td>
-        </tr>
-        <tr>
-            <td>119</td>
-            <td><del> <a href="https://qachat.vercel.app/" target="_blank">https://qachat.vercel.app/</a>
-                </del>
-            </td>
-            <td>2023-04-04</td>
-        </tr>
-        <tr>
-            <td>120</td>
-            <td><del> <a href="https://chat.tgbot.co/" target="_blank">https://chat.tgbot.co/</a>
-                </del>
-            </td>
-            <td>2023-04-04</td>
-        </tr>
-        <tr>
-            <td>121</td>
-            <td><del> <a href="https://chatgpt.ddiu.me/" target="_blank">https://chatgpt.ddiu.me/</a>
-                </del>
-            </td>
-            <td>2023-04-04</td>
-        </tr>
-        <tr>
-            <td>122</td>
-            <td><del> <a href="https://chat.yqcloud.top/" target="_blank">https://chat.yqcloud.top/</a>
-                </del>
-            </td>
-            <td>2023-04-04</td>
-        </tr>
-        <tr>
-            <td>123</td>
-            <td><del> <a href="https://www.aitoolgpt.com/" target="_blank">https://www.aitoolgpt.com/</a>
-                </del>
-            </td>
-            <td>2023-04-04</td>
-        </tr>
-        <tr>
-            <td>124</td>
-            <td><del> <a href="https://www.chatsverse.xyz/" target="_blank">https://www.chatsverse.xyz/</a>
-                </del>
-            </td>
-            <td>2023-04-04</td>
-        </tr>
-        <tr>
-            <td>125</td>
-            <td><del> <a href="https://chat.ninvfeng.xyz/" target="_blank">https://chat.ninvfeng.xyz/</a>
-                </del>
-            </td>
-            <td>2023-04-04</td>
-        </tr>
-        <tr>
-            <td>126</td>
-            <td><del> <a href="https://qachat.cn/" target="_blank">https://qachat.cn/</a>
-                </del>
-            </td>
-            <td>2023-04-03</td>
-        </tr>
-        <tr>
-            <td>127</td>
-            <td><del> <a href="https://greengpt.app/" target="_blank">https://greengpt.app/</a>
-                </del>
-            </td>
-            <td>2023-04-01</td>
-        </tr>
-        <tr>
-            <td>128</td>
-            <td><del> <a href="https://www.askme.mom/" target="_blank">https://www.askme.mom/</a>
-                </del>
-            </td>
-            <td>2023-04-01</td>
-        </tr>
-        <tr>
-            <td>129</td>
-            <td><del> <a href="https://www.bz1y.cn/" target="_blank">https://www.bz1y.cn/</a>
-                </del>
-            </td>
-            <td>2023-03-22</td>
-        </tr>
-        <tr>
-            <td>130</td>
-            <td><del> <a href="https://xc.com/" target="_blank">https://xc.com/</a>
-                </del>
-            </td>
-            <td>2023-03-22</td>
-        </tr>
-        <tr>
-            <td>131</td>
-            <td><del> <a href="https://www.scyu.app/" target="_blank">https://www.scyu.app/</a>
-                </del>
-            </td>
-            <td>2023-03-22</td>
-        </tr>
-        <tr>
-            <td>132</td>
-            <td><del> <a href="https://chatgpt-flutter.h7ml.cn/" target="_blank">https://chatgpt-flutter.h7ml.cn/</a>
-                </del>
-            </td>
-            <td>2023-03-22</td>
-        </tr>
-        <tr>
-            <td>133</td>
-            <td><del> <a href="https://chatapi.qload.cn/" target="_blank">https://chatapi.qload.cn/</a>
-                </del>
-            </td>
-            <td>2023-03-22</td>
-        </tr>
+       
     </tbody>
 </table>
 <!-- abnormal-end -->
@@ -4266,26 +3341,322 @@
 
 </details>
 
-## 🗨️ ChatGPT 替代方案
+## 🗨️ AI工具导航
 
-- 👍 [Poe - Fast, Helpful AI Chat](https://poe.com) - 在 Poe 上可与 ChatGPT、GPT-4o、Claude-3-Opus、DALLE 3 等数百万机器人交谈。
-- [HuggingChat](https://huggingface.co/chat) - 让社区最好的 AI 聊天模型对所有人可用。
-- [DuckDuckGo AI Chat](https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1) - 向 DuckDuckGo AI Chat 打个招呼！ 匿名使用热门人工智能模型，包括 GPT-3.5、Claude 3 以及开源 Llama 3 和 Mixtral。
-- [Chat with Open Large Language Models](https://chat.lmsys.org/) from <https://github.com/lm-sys/FastChat> - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and FastChat-T5.
-- [Microsoft Copilot](https://copilot.microsoft.com/) - 你的日常 AI 助手。
-- [Meta AI](https://www.meta.ai/) - 使用 Meta AI 助手，免费生成图像，并回答任何问题。
-- [Google Gemini](https://gemini.google.com/) - Gemini, 激发你的创造力和生产力。
-- [Anthropic Claude](https://claude.ai/) - Claude is a next generation AI assistant built for work and trained to be safe, accurate, and secure.
-- [百度 文心一言](https://yiyan.baidu.com/)
-- [Open Assistant](https://open-assistant.io/) - 面向所有人的对话式 AI, 这是一个由 LAION 和全球贡献者共同开发的 GPT LLM 项目.
-- [阿里 通义大模型](https://tongyi.aliyun.com/) - 阿里大模型统一品牌，覆盖语言、听觉、多模态等领域；致力于实现接近人类智慧的通用智能，让 AI 从“单一感官”到“五官全开”
-- [讯飞星火认知大模型](https://xinghuo.xfyun.cn/) - 讯飞星火认知大模型，是由科大讯飞推出的大语言模型，能够通过自然语言理解，完成智能对答。
-- [Pi, your personal AI](https://heypi.com/talk) - Hi, I'm Pi. I'm your personal AI, designed to be supportive, smart, and there for you anytime. Ask me for advice, for answers, or let's talk about whatever's on your mind.
-- [TruthGPT Chat](https://talk.truthgpt.one/) - Hey, I’m TruthGPT! The beacon of truth in a world of unknown. We can either have a conversation or you may ask me complex questions!
-- [昆仑万维天工大模型](https://tiangong.kunlun.com/) - 「天工」是国内首个对标 ChatGPT 的双千亿级大语言模型，也是一个对话式 AI 助手。
-- [抖音旗下豆包小助手](https://www.doubao.com/) - 豆包是你的智能小助手，可以为你答疑解惑，提供灵感，辅助创作，也可以和你畅聊任何你感兴趣的话题。
-- [OpenAgents](https://github.com/xlang-ai/OpenAgents) - ChatGPT Plus 功能（数据分析，插件，上网）开源复刻项目。
-- [智谱清言](https://www.chatglm.cn/) - 智谱 AI 和清华大学 KEG 实验室联合发布的新一代对话预训练模型，基于 ChatGLM2 模型开发，支持多轮对话，具备内容创作、信息归纳总结等能力。
+<table> 
+    <tr>
+        <td>1</td>
+        <td><img src="https://pic.imgdb.cn/item/66bd99aed9c307b7e9121410.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://whatai.cc" target="_blank">神马AI导航</a></td>
+        <td>🆕1万+ AI工具，200+分</td>
+        <td></td>
+        <td><a href="https://whatai.cc" target="_blank">🔗</a></td>
+    </tr> 
+    <tr>
+        <td>2</td>
+        <td><img src="https://st2.ai55.cc/1/284600f76627e621dca7506702ea8e22.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://www.gptdemo.net/cn/" target="_blank">Gpt Demo</a></td>
+        <td>ChatGPT、生成式 AI </td>
+        <td>😄</td>
+        <td><a href="https://www.gptdemo.net/cn/" target="_blank">🔗</a></td>
+    </tr> 
+    <tr>
+        <td>3</td>
+        <td><img src="https://st2.ai55.cc/1/2acfffc34a98b890.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://toollist.ai/" target="_blank">Tool List Ai</a></td>
+        <td>🆕Find the best ...</td>
+        <td></td>
+        <td><a href="https://toollist.ai/" target="_blank">🔗</a></td>
+    </tr> 
+    <tr>
+        <td>4</td>
+        <td><img src="https://st2.ai55.cc/1/86c18696f197cadfdf8f9b6eb77d2dab.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://www.chat2ai.cn/" target="_blank">AI产品导航站</a></td>
+        <td>收录全球最热门的AI产品</td>
+        <td></td>
+        <td><a href="https://www.chat2ai.cn/" target="_blank">🔗</a></td>
+    </tr> 
+    <tr>
+        <td>5</td>
+        <td><img src="https://st2.ai55.cc/1/2b402f8cf68b2eae23d36d63135d44ba.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://www.aiagc.com/" target="_blank">aiagc.com</a></td>
+        <td>AIAGC 导航</td>
+        <td>😄</td>
+        <td><a href="https://www.aiagc.com/" target="_blank">🔗</a></td>
+    </tr> 
+    <tr>
+        <td>6</td>
+        <td><img src="https://st2.ai55.cc/1/30f5030ed68271558dc1f82891a3a65d.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://ai.tboxn.com/" target="_blank">图钉AI导航网</a></td>
+        <td></td>
+        <td>😄</td>
+        <td><a href="https://ai.tboxn.com/" target="_blank">🔗</a></td>
+    </tr> 
+    <tr>
+        <td>7</td>
+        <td><img src="https://st2.ai55.cc/1/704874b85786bce2a9cbfde4fed04106.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://www.aiyjs.com/" target="_blank">AI研究所</a></td>
+        <td></td>
+        <td></td>
+        <td><a href="https://www.aiyjs.com/" target="_blank">🔗</a></td>
+    </tr> 
+    <tr>
+        <td>8</td>
+        <td><img src="https://st2.ai55.cc/1/50491ddfa67b1dc39bdf60e048662b4b.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://nav.6aiq.com/" target="_blank">未来百科</a></td>
+        <td>为发现全球优质AI工具产品而生</td>
+        <td></td>
+        <td><a href="https://nav.6aiq.com/" target="_blank">🔗</a></td>
+    </tr> 
+    <tr>
+        <td>9</td>
+        <td><img src="https://st2.ai55.cc/1/f3cda812fa7c715c32860ff4827a4092.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://ai.94kan.cn/" target="_blank">AI导航网</a></td>
+        <td></td>
+        <td></td>
+        <td><a href="https://ai.94kan.cn/" target="_blank">🔗</a></td>
+    </tr> 
+    <tr>
+        <td>10</td>
+        <td><img src="https://st2.ai55.cc/1/0d2995cd9ad17937c2ec700730dcf2a8.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://www.aigc.cn/" target="_blank">AIGC导航</a></td>
+        <td>生成式AI工具导航平台-全品类</td>
+        <td></td>
+        <td><a href="https://www.aigc.cn/" target="_blank">🔗</a></td>
+    </tr> 
+    <tr>
+        <td>11</td>
+        <td><img src="https://st2.ai55.cc/1/aa6ac152cbd5a0619ca15b230f08a7cd.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://www.ainavpro.com/" target="_blank">AI导航</a></td>
+        <td>最新最前沿的AI产品</td>
+        <td></td>
+        <td><a href="https://www.ainavpro.com/" target="_blank">🔗</a></td>
+    </tr> 
+    <tr>
+        <td>12</td>
+        <td><img src="https://st2.ai55.cc/1/f811f10496bffc4adba023da0e5d0d31.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://www.deepdh.com/" target="_blank">深度导航</a></td>
+        <td>分享互联网最具价值的网站</td>
+        <td></td>
+        <td><a href="https://www.deepdh.com/" target="_blank">🔗</a></td>
+    </tr> 
+    <tr>
+        <td>13</td>
+        <td><img src="https://st2.ai55.cc/1/d50ec41578cd95af8070a6745c4f3ecf.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://www.ainav.cn/" target="_blank">AI导航网</a></td>
+        <td>精选AI人工智能工具</td>
+        <td></td>
+        <td><a href="https://www.ainav.cn/" target="_blank">🔗</a></td>
+    </tr> 
+    <tr>
+        <td>14</td>
+        <td><img src="https://st2.ai55.cc/1/1be1b04c63d90a34bb2cb47ae952348f.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://www.aihub.cn/" target="_blank">AIHub</a></td>
+        <td>发现最新优质AI工具</td>
+        <td></td>
+        <td><a href="https://www.aihub.cn/" target="_blank">🔗</a></td>
+    </tr> 
+    <tr>
+        <td>15</td>
+        <td><img src="https://st2.ai55.cc/1/93f3520bda78e31be9d38d99dd853f8e.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://www.uxmap.cn/page/#/uxmap/preview?id=38218" target="_blank">AI工具导航</a></td>
+        <td></td>
+        <td></td>
+        <td><a href="https://www.uxmap.cn/page/#/uxmap/preview?id=38218" target="_blank">🔗</a></td>
+    </tr> 
+    <tr>
+        <td>16</td>
+        <td><img src="https://st2.ai55.cc/1/5e610030e52bf8b261ef28cfd55d5fb2.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://www.tuyiyi.com/show-34" target="_blank">图翼AI导航</a></td>
+        <td></td>
+        <td></td>
+        <td><a href="https://www.tuyiyi.com/show-34" target="_blank">🔗</a></td>
+    </tr> 
+    <tr>
+        <td>17</td>
+        <td><img src="https://st2.ai55.cc/1/4f7dde435fa2ec67d70ecb81089af7b4.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://hao.uisdc.com/ai/" target="_blank">优设AI导航</a></td>
+        <td>专业AIGC网站导航 - 热门</td>
+        <td></td>
+        <td><a href="https://hao.uisdc.com/ai/" target="_blank">🔗</a></td>
+    </tr> 
+    <tr>
+        <td>18</td>
+        <td><img src="https://st2.ai55.cc/1/f1459636feff90caea4375e8f144f231.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://aidepot.co/" target="_blank">AI Ddepot</a></td>
+        <td>Discover The Be...</td>
+        <td></td>
+        <td><a href="https://aidepot.co/" target="_blank">🔗</a></td>
+    </tr> 
+    <tr>
+        <td>19</td>
+        <td><img src="https://st2.ai55.cc/1/c0d42c54796ee6a39ba4f1e82970c1a0.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://www.yuque.com/popponyj/aigc_aitools/index#bw62g9d2ir939vexoio4feunkcr6onbh" target="_blank">AI应用工具箱</a></td>
+        <td></td>
+        <td></td>
+        <td><a href="https://www.yuque.com/popponyj/aigc_aitools/index#bw62g9d2ir939vexoio4feunkcr6onbh" target="_blank">🔗</a></td>
+    </tr> 
+    <tr>
+        <td>20</td>
+        <td><img src="https://st2.ai55.cc/1/c59dc06ca8d6073bcc50a085272d3bee.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://www.creaitives.com/tools" target="_blank">Creaitives.com</a></td>
+        <td>Browse the larg...</td>
+        <td></td>
+        <td><a href="https://www.creaitives.com/tools" target="_blank">🔗</a></td>
+    </tr> 
+    <tr>
+        <td>21</td>
+        <td><img src="https://st2.ai55.cc/1/f108f32e966fba71c0b40a35012da699.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://www.futurepedia.io/" target="_blank">Futurepedia</a></td>
+        <td>Discover what A...</td>
+        <td></td>
+        <td><a href="https://www.futurepedia.io/" target="_blank">🔗</a></td>
+    </tr> 
+    <tr>
+        <td>22</td>
+        <td><img src="https://st2.ai55.cc/1/0a2c558bf62f93071503c78b0983a183.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://www.aitoolhunt.com/" target="_blank">AI Tool Hunt</a></td>
+        <td> Ultimate List ...</td>
+        <td></td>
+        <td><a href="https://www.aitoolhunt.com/" target="_blank">🔗</a></td>
+    </tr> 
+    <tr>
+        <td>23</td>
+        <td><img src="https://st2.ai55.cc/1/bb7c806b7100b56e8571f1b4f8678e9a.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://www.toptools.ai/" target="_blank">TopTools</a></td>
+        <td>AI tools direct...</td>
+        <td></td>
+        <td><a href="https://www.toptools.ai/" target="_blank">🔗</a></td>
+    </tr> 
+    <tr>
+        <td>24</td>
+        <td><img src="https://st2.ai55.cc/1/e9ea58ffc54b163ce1de335fa781f09b.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://www.aitoolnavigation.com/" target="_blank">AI Tool Navigation</a></td>
+        <td>Discover the be</td>
+        <td></td>
+        <td><a href="https://www.aitoolnavigation.com/" target="_blank">🔗</a></td>
+    </tr> 
+    <tr>
+        <td>25</td>
+        <td><img src="https://st2.ai55.cc/1/9c1163c677d434ee9cab3d451c00b691.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://www.theaivalley.com/" target="_blank">AI Valley</a></td>
+        <td></td>
+        <td></td>
+        <td><a href="https://www.theaivalley.com/" target="_blank">🔗</a></td>
+    </tr> 
+    <tr>
+        <td>26</td>
+        <td><img src="https://st2.ai55.cc/1/369248ebe34c601c5b808c622cafa35a.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://www.futuretools.io/" target="_blank">Future Tools</a></td>
+        <td>Find The Exact ...</td>
+        <td></td>
+        <td><a href="https://www.futuretools.io/" target="_blank">🔗</a></td>
+    </tr> 
+    <tr>
+        <td>27</td>
+        <td><img src="https://st2.ai55.cc/1/c24f43fb713062071a17dcab071f46c0.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://www.explainthis.io/zh-hant/ai-toolkit" target="_blank">explainthis.io</a></td>
+        <td>AI 工具导航</td>
+        <td></td>
+        <td><a href="https://www.explainthis.io/zh-hant/ai-toolkit" target="_blank">🔗</a></td>
+    </tr> 
+    <tr>
+        <td>28</td>
+        <td><img src="https://st2.ai55.cc/1/dfbd60c58711909d44ecdcc6fca30e01.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://easywithai.com/" target="_blank">easywithai.com</a></td>
+        <td></td>
+        <td></td>
+        <td><a href="https://easywithai.com/" target="_blank">🔗</a></td>
+    </tr> 
+    <tr>
+        <td>29</td>
+        <td><img src="https://st2.ai55.cc/1/56bf09ea0bb469daaaf5685f770606ab.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://zhexieai.com/" target="_blank">zhexieai.com</a></td>
+        <td></td>
+        <td></td>
+        <td><a href="https://zhexieai.com/" target="_blank">🔗</a></td>
+    </tr> 
+    <tr>
+        <td>30</td>
+        <td><img src="https://st2.ai55.cc/1/b9a4127ac8dcdb6787fc68bf8846e625.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://aichaodian.com/" target="_blank">aichaodian.com</a></td>
+        <td></td>
+        <td>😄</td>
+        <td><a href="https://aichaodian.com/" target="_blank">🔗</a></td>
+    </tr> 
+    <tr>
+        <td>31</td>
+        <td><img src="https://st2.ai55.cc/1/a82ab20e2fc8bc661542e1753fcc6f71.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://ai-bot.cn/" target="_blank">ai-bot.cn</a></td>
+        <td></td>
+        <td>😄</td>
+        <td><a href="https://ai-bot.cn/" target="_blank">🔗</a></td>
+    </tr> 
+    <tr>
+        <td>32</td>
+        <td><img src="https://st2.ai55.cc/1/b5d13a81998bf4b3f3e6f7329e53f7d5.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://feizhuke.com/" target="_blank">feizhuke.com</a></td>
+        <td></td>
+        <td></td>
+        <td><a href="https://feizhuke.com/" target="_blank">🔗</a></td>
+    </tr> 
+    <tr>
+        <td>33</td>
+        <td><img src="https://st2.ai55.cc/1/c961efd282a79bd6bd85b42a3a959d79.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://aiwaytools.com/" target="_blank">aiwaytools.com</a></td>
+        <td></td>
+        <td></td>
+        <td><a href="https://aiwaytools.com/" target="_blank">🔗</a></td>
+    </tr> 
+    <tr>
+        <td>34</td>
+        <td><img src="https://st2.ai55.cc/1/1adec002d93587e6e2bb02425cbdb7ee.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://iforai.com/" target="_blank">iforai.com</a></td>
+        <td></td>
+        <td></td>
+        <td><a href="https://iforai.com/" target="_blank">🔗</a></td>
+    </tr> 
+    <tr>
+        <td>35</td>
+        <td><img src="https://st2.ai55.cc/1/2c6f94421b598349752a4adb437c1380.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://0mo.com/" target="_blank">0mo.com</a></td>
+        <td></td>
+        <td></td>
+        <td><a href="https://0mo.com/" target="_blank">🔗</a></td>
+    </tr> 
+    <tr>
+        <td>36</td>
+        <td><img src="https://st2.ai55.cc/1/4df05ff5cd3a4c6c8a2838323901ed99.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://cooltools.top/ai.html" target="_blank">cooltools.top</a></td>
+        <td></td>
+        <td></td>
+        <td><a href="https://cooltools.top/ai.html" target="_blank">🔗</a></td>
+    </tr> 
+    <tr>
+        <td>37</td>
+        <td><img src="https://st2.ai55.cc/1/55b5a42be7f4561dea43a517c6bb1bcd.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://allthingsai.com/" target="_blank">allthingsai.com</a></td>
+        <td></td>
+        <td></td>
+        <td><a href="https://allthingsai.com/" target="_blank">🔗</a></td>
+    </tr> 
+    <tr>
+        <td>38</td>
+        <td><img src="https://st2.ai55.cc/1/601b5c8901130af4d32102e2dcff5020.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://saasaitools.com/" target="_blank">saasaitools.com</a></td>
+        <td></td>
+        <td></td>
+        <td><a href="https://saasaitools.com/" target="_blank">🔗</a></td>
+    </tr> 
+    <tr>
+        <td>39</td>
+        <td><img src="https://st2.ai55.cc/1/8aa10449da26cfcd1a55031c3cf99f27.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://topai.tools/" target="_blank">topai.tools</a></td>
+        <td></td>
+        <td></td>
+        <td><a href="https://topai.tools/" target="_blank">🔗</a></td>
+    </tr> 
+</table>
 
 ## 📚 更多...
 
@@ -4322,11 +3693,3 @@
 - [Meaningful Code Tests for Busy Devs | CodiumAI](https://www.codium.ai/) - With CodiumAI, you get non-trivial tests suggested right inside your IDE, so you can code smart, create more value, and stay confident when you push.
 
 ---
-
-### 🌟 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=LiLittleCat/awesome-free-chatgpt&type=Date)](https://star-history.com/#LiLittleCat/awesome-free-chatgpt&Date)
-
-### 💞 Contributors
-
-[![Contributors](https://contrib.rocks/image?repo=LiLittleCat/awesome-free-chatgpt)](https://github.com/LiLittleCat/awesome-free-chatgpt/graphs/contributors)
