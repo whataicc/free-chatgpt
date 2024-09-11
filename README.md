@@ -1,18 +1,16 @@
-# Awesome Free ChatGPT
+# Free ChatGPT
 
-![Awesome](https://cdn.jsdelivr.net/gh/LiLittleCat/PicBed/svg/awesome/badge.svg) [![English](https://cdn.jsdelivr.net/gh/LiLittleCat/PicBed/svg/lang/english.svg)](README_en.md) ![website count](https://img.shields.io/badge/websites-297-blue?style=flat) ![last-commit](https://img.shields.io/github/last-commit/LiLittleCat/awesome-free-chatgpt?style=flat&amp;label=last&nbsp;commit)
 
-> 4 月 1 日，OpenAI 宣布可以不登录即可使用 ChatGPT 3.5，参阅 [Start using ChatGPT instantly](https://openai.com/blog/start-using-chatgpt-instantly)。
 
 🎁 免费的 ChatGPT (<https://chatgpt.com>)(<https://chat.openai.com>) 镜像网站列表，以及更多免费资源，持续更新。
 
 此处列出的网站均来源于互联网，请注意不要在这些网站上输入任何个人敏感信息。
 
 🌈 欢迎贡献
-
+<!-- 
 - [添加镜像站点](https://github.com/LiLittleCat/awesome-free-chatgpt/issues/new?assignees=LiLittleCat&labels=&projects=&template=%E6%B7%BB%E5%8A%A0%E9%95%9C%E5%83%8F%E7%AB%99%E7%82%B9.md&title=%E6%B7%BB%E5%8A%A0%E9%95%9C%E5%83%8F%E7%AB%99%E7%82%B9)
 - [反馈站点失效](https://github.com/LiLittleCat/awesome-free-chatgpt/issues/new?assignees=LiLittleCat&labels=&projects=&template=%E5%8F%8D%E9%A6%88%E7%AB%99%E7%82%B9%E5%A4%B1%E6%95%88.md&title=%E5%8F%8D%E9%A6%88%E7%AB%99%E7%82%B9%E5%A4%B1%E6%95%88)
-- 更多(todo)
+- 更多(todo) -->
 
 如果您发现此项目有用，不要忘记 star 🌟，您的支持是我前进的动力。
 
@@ -20,13 +18,14 @@
 
 |                                            🏆 赞助商 🏆                                             |
   |:------------------------------------------------------------------------------------------------:|
-| 👉 [WikeAI](https://wike.ai/) 支持 GPT4、Claude3、GPT-3.5-turbo（免费无限制）、Gemini Pro（免费无限制）、助手/绘画、语音合成。 |
+| 👉 [机灵助手](https://www.jiling.cc/chat) 支持GPT4o、Claude3、MJ绘画、Suno文生音乐等。 |
+👉 [神马聚合中转API](https://api.whatai.cc)  2元1美刀，支持OpenAI官方所有模型，Luma、MJ、Claude、Suno等API调用 |
 
 ---
 
 ## 目录
 <!-- TOC -->
-- [Awesome Free ChatGPT](#awesome-free-chatgpt)
+- [Free ChatGPT](#free-chatgpt)
   - [目录](#目录)
   - [💬 ChatGPT 镜像列表](#-chatgpt-镜像列表)
   - [🗨️ ChatGPT 替代方案](#️-chatgpt-替代方案)
@@ -40,7 +39,7 @@
 <!-- TOC -->
 
 ## 💬 ChatGPT 镜像列表
-
+<!-- 
 > 注：
 >
 > 1. 排序规则，见 [#80](https://github.com/LiLittleCat/awesome-free-chatgpt/discussions/80)
@@ -54,7 +53,7 @@
 >    - 💪支持 GPT4
 >    - 🧰不仅仅是 Chat，支持其他模型或其他功能
 >    - 🌎需要国际网络
->    - 🏆赞助商
+>    - 🏆赞助商 -->
 
 <!-- normal-begin -->
 <table>
