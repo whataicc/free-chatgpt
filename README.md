@@ -3352,7 +3352,6 @@
         <td></td>
         <td><a href="https://whatai.cc" target="_blank">🔗</a></td>
     </tr> 
-
     <tr>
         <td>2</td>
         <td><img src="https://s3.bmp.ovh/imgs/2024/09/12/eed3068324404dd0.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
@@ -3369,7 +3368,6 @@
         <td>😄</td>
         <td><a href="https://ai.tboxn.com/" target="_blank">🔗</a></td>
     </tr> 
-
     <tr>
         <td>4</td>
         <td><img src="https://s3.bmp.ovh/imgs/2024/09/12/438034d843429daf.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
@@ -3410,7 +3408,6 @@
         <td></td>
         <td><a href="https://www.aihub.cn/" target="_blank">🔗</a></td>
     </tr> 
-
     <tr>
         <td>9</td>
         <td><img src="https://s3.bmp.ovh/imgs/2024/09/12/b02d01fabe214205.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
@@ -3427,11 +3424,6 @@
         <td></td>
         <td><a href="https://hao.uisdc.com/ai/" target="_blank">🔗</a></td>
     </tr> 
-
-
-
-
-
     <tr>
         <td>11</td>
         <td><img src="https://st2.ai55.cc/1/c24f43fb713062071a17dcab071f46c0.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
@@ -3440,8 +3432,6 @@
         <td></td>
         <td><a href="https://www.explainthis.io/zh-hant/ai-toolkit" target="_blank">🔗</a></td>
     </tr> 
-
-
     <tr>
         <td>12</td>
         <td><img src="https://st2.ai55.cc/1/b9a4127ac8dcdb6787fc68bf8846e625.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
@@ -3466,7 +3456,6 @@
         <td></td>
         <td><a href="https://feizhuke.com/" target="_blank">🔗</a></td>
     </tr> 
-
     <tr>
         <td>15</td>
         <td><img src="https://st2.ai55.cc/1/1adec002d93587e6e2bb02425cbdb7ee.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
