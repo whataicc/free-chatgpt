@@ -3346,7 +3346,7 @@
 <table> 
     <tr>
         <td>1</td>
-        <td><img src="https://pic.imgdb.cn/item/66bd99aed9c307b7e9121410.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><img src="https://s3.bmp.ovh/imgs/2024/09/12/9042ae579abd35c2.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://whatai.cc" target="_blank">神马AI导航</a></td>
         <td>🆕1万+ AI工具，200+分</td>
         <td></td>
